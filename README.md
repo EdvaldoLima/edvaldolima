@@ -11,7 +11,7 @@ Desenvolvedor Web e Mobile.
   
 - Atuo com tecnologias como Laravel, AdonisJs, MySQL, Docker, NativeScript, VueJs. 
 - Desafios sempre são bem vindos, gosto de aprender novas tecnologias e aprimorar os conhecimentos.
-- Atualmente estudando mais a fundo as tecnoligas da stack.
+- Atualmente estudando mais a fundo as tecnologias da stack.
 
 <!--
 
